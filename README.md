@@ -1,13 +1,22 @@
-### Hi there ✌🏽
-
+# Hi There ✌🏽
+## About Me 💭
 I'm Juan Carlos Martinez, hailing from Mexico City 🇲🇽, currently pursuing a dual degree in Computer Science and Economics at Southwestern University in Georgetown, TX 🇺🇸. My passion lies in becoming a Full Stack developer, hence I enjoy working on personal projects to enhance my skills. 
 
-I'm always on the lookout for new opportunities to learn and grow, be it professionally or personally. Thanks for stopping by my profile, and I'd love to connect with you!
+I'm always on the lookout for new opportunities to learn and grow professionally or personally. Thanks for stopping by my profile, and I'd love to connect with you!
 
-[![Linkedin Badge](https://img.shields.io/badge/-jcarlos-martinez-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jcarlos-martinez)](https://www.linkedin.com/in/jcarlos-martinez)
-[![Twitter Badge](https://img.shields.io/badge/-@jcarlos_mar?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https://twitter.com/jcarlos_mar)](https://twitter.com/jcarlos_mar)
+[![Linkedin Badge](https://img.shields.io/badge/-jcarlos-martinez-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jcarlos-martinez/)](https://www.linkedin.com/in/jcarlos-martinez/)
+[![Twitter Badge](https://img.shields.io/badge/-@jcarlos_mar-000000?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https://twitter.com/jcarlos_mar)](https://twitter.com/jcarlos_mar)
 [![Instagram Badge](https://img.shields.io/badge/-@jcarlos_mar-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jcarlos_mar)](https://instagram.com/jcarlos_mar)
 [![Gmail Badge](https://img.shields.io/badge/-jcarlosmartinez745-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jcarlosmartinez745@gmail.com)](mailto:jcarlosmartinez745@gmail.com)
+
+## Some Quick Facts
+- 🎓 I have Full ride scholarship at Southwestern University.
+- 📚 I have a cumulative GPA of 4.0
+- 👨🏽‍💼 I'm part of the Business and Computer Science Club.
+- 👾 One of my hobbies is designing and 3D printing.
+- 🤖 I was national champion with my high school robotics team [Aztech](https://www.instagram.com/aztech4775/).
+- 🖥️ I founded [Pero no me hackean?](https://www.facebook.com/profile.php?id=100078583879297) a social project dedicated to fostering technological literacy.
+
 
 <!--
 **jucax/jucax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
