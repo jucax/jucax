@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there ✌🏽
+
+Welcome to my profile. I'm Juan Carlos Martinez, hailing from Mexico City 🇲🇽, currently pursuing a dual degree in Computer Science and Economics at Southwestern University in Georgetown, TX 🇺🇸. My passion lies in becoming a Full Stack developer, hence I enjoy working on personal projects to enhance my skills. 
+
+I'm always on the lookout for new opportunities to learn and grow, be it professionally or personally. Thanks for stopping by my profile, and I'd love to connect with you!
+
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jcarlos-martinez)](https://www.linkedin.com/in/jcarlos-martinez)
+
 
 <!--
 **jucax/jucax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
