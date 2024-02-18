@@ -18,7 +18,7 @@ I'm always on the lookout for new opportunities to learn and grow professionally
 - 🖥️ I founded [Pero no me hackean?](https://www.facebook.com/profile.php?id=100078583879297) a social project dedicated to fostering technological literacy.
 
 ## Stats 📊
-[![jucax's GitHub stats](https://github-readme-stats.vercel.app/api?username=jucax)](https://github.com/jucax/github-readme-stats)
+[![jucax's GitHub stats](https://github-readme-stats.vercel.app/api?username=jucax&show_icons=true&theme=radical)](https://github.com/jucax/github-readme-stats)
 
 <!--
 **jucax/jucax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
