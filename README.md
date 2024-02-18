@@ -4,7 +4,7 @@ I'm Juan Carlos Martinez, hailing from Mexico City 🇲🇽, currently pursuing 
 
 I'm always on the lookout for new opportunities to learn and grow professionally or personally. Thanks for stopping by my profile, and I'd love to connect with you!
 
-[![Linkedin: Mark Mueller](https://img.shields.io/badge/-MarkMueller-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/muellermark2002/](https://www.linkedin.com/in/muellermark2002/))](https://www.linkedin.com/in/muellermark2002/)
+[![Linkedin: Juan Martinez](https://img.shields.io/badge/-JuanMartinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/jcarlos-martinez/](https://www.linkedin.com/in/jcarlos-martinez/))](https://www.linkedin.com/in/jcarlos-martinez/)
 [![Twitter Badge](https://img.shields.io/badge/-@jcarlos_mar-000000?style=flat&labelColor=000000&logo=x&logoColor=white&link=https://twitter.com/jcarlos_mar)](https://twitter.com/jcarlos_mar)
 [![Instagram Badge](https://img.shields.io/badge/-@jcarlos_mar-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jcarlos_mar)](https://instagram.com/jcarlos_mar)
 [![Gmail Badge](https://img.shields.io/badge/-jcarlosmartinez745-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jcarlosmartinez745@gmail.com)](mailto:jcarlosmartinez745@gmail.com)
