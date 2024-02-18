@@ -11,12 +11,14 @@ I'm always on the lookout for new opportunities to learn and grow professionally
 
 ## Some Quick Facts ⚡️
 - 🎓 I have Full ride scholarship at Southwestern University.
-- 📚 I have a cumulative GPA of 4.0
+- 📚 I have a cumulative GPA of 4.0.
 - 👨🏽‍💼 I'm part of the Business and Computer Science Club.
 - 👾 One of my hobbies is designing and 3D printing.
 - 🤖 I was national champion with my high school robotics team [Aztech](https://www.instagram.com/aztech4775/).
 - 🖥️ I founded [Pero no me hackean?](https://www.facebook.com/profile.php?id=100078583879297) a social project dedicated to fostering technological literacy.
 
+## Stats 📊
+[![jucax's GitHub stats](https://github-readme-stats.vercel.app/api?username=jucax)](https://github.com/jucax/github-readme-stats)
 
 <!--
 **jucax/jucax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
