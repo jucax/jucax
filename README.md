@@ -18,8 +18,8 @@ I'm always on the lookout for new opportunities to learn and grow professionally
 - 🖥️ I founded [Pero no me hackean?](https://www.facebook.com/profile.php?id=100078583879297) a social project dedicated to fostering technological literacy.
 
 ## Stats 📊
-[![jucax's GitHub stats](https://github-readme-stats.vercel.app/api?username=jucax&show_icons=true&theme=synthwave&line_height=28)](https://github.com/jucax/github-readme-stats)
-[![jucax Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jucax&layout=donut&show_icons=true&theme=synthwave&count_private=true&size_weight=0.5&count_weight=0.5)](https://github.com/jucax/github-readme-stats)
+[![jucax's GitHub stats](https://github-readme-stats.vercel.app/api?username=jucax&show_icons=true&theme=highcontrast&line_height=28)](https://github.com/jucax/github-readme-stats)
+[![jucax Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jucax&layout=donut&show_icons=true&theme=highcontrast&count_private=true&size_weight=0.5&count_weight=0.5)](https://github.com/jucax/github-readme-stats)
 
 <!--
 **jucax/jucax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
