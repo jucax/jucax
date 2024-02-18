@@ -19,7 +19,7 @@ I'm always on the lookout for new opportunities to learn and grow professionally
 
 ## Stats 📊
 [![jucax's GitHub stats](https://github-readme-stats.vercel.app/api?username=jucax&show_icons=true&theme=dark)](https://github.com/jucax/github-readme-stats)
-[![jucax Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jucax&layout=donut&show_icons=true&theme=dark&line_height=28&include_all_commits&count_private=true)](https://github.com/jucax/github-readme-stats)
+[![jucax Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jucax&layout=donut&show_icons=true&theme=dark&show_icons=true&count_private=true&size_weight=0.5&count_weight=0.5)](https://github.com/jucax/github-readme-stats)
 
 <!--
 **jucax/jucax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
