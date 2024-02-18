@@ -10,9 +10,9 @@ I'm always on the lookout for new opportunities to learn and grow professionally
 [![Gmail Badge](https://img.shields.io/badge/-jcarlosmartinez745-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jcarlosmartinez745@gmail.com)](mailto:jcarlosmartinez745@gmail.com)
 
 ## Some Quick Facts ⚡️
-- 🎓 I have Full ride scholarship at Southwestern University.
+- 🎓 I have full ride scholarship at Southwestern University.
 - 📚 I have a cumulative GPA of 4.0.
-- 👨🏽‍💼 I'm part of the Business and Computer Science Club.
+- 👨🏽‍💼 I'm part of the Business and Computer Science clubs.
 - 👾 One of my hobbies is designing and 3D printing.
 - 🤖 I was national champion with my high school robotics team [Aztech](https://www.instagram.com/aztech4775/).
 - 🖥️ I founded [Pero no me hackean?](https://www.facebook.com/profile.php?id=100078583879297) a social project dedicated to fostering technological literacy.
@@ -21,7 +21,7 @@ I'm always on the lookout for new opportunities to learn and grow professionally
 [![jucax's GitHub stats](https://github-readme-stats.vercel.app/api?username=jucax&show_icons=true&theme=highcontrast&line_height=28)](https://github.com/jucax/github-readme-stats)
 [![jucax Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jucax&layout=donut&show_icons=true&theme=highcontrast&count_private=true&size_weight=0.5&count_weight=0.5)](https://github.com/jucax/github-readme-stats)
 
-## Check out my [Resume]([https://github.com/jucax/jucax/main/](https://github.com/jucax/jucax/blob/d52d4aa0dde102a6292d67184363cf525a4cdf57/Juan%20Carlos%20Martinez%20Varela%20Resume.pdf)) 📄
+## Check out my [Resume](https://github.com/jucax/jucax/main/](https://github.com/jucax/jucax/blob/d52d4aa0dde102a6292d67184363cf525a4cdf57/Juan%20Carlos%20Martinez%20Varela%20Resume.pdf) 📄
 <!--
 **jucax/jucax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
