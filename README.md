@@ -4,12 +4,12 @@ I'm Juan Carlos Martinez, hailing from Mexico City 🇲🇽, currently pursuing 
 
 I'm always on the lookout for new opportunities to learn and grow professionally or personally. Thanks for stopping by my profile, and I'd love to connect with you!
 
-[![Linkedin](https://img.shields.io/badge/-jcarlos-martinez-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jcarlos-martinez/)
+[![Linkedin Badge](https://img.shields.io/badge/jcarlos-martinez-0077B5?style=for-the-white&link=https://www.linkedin.com/in/jcarlos-martinez/)](https://www.linkedin.com/in/jcarlos-martinez/)
 [![Twitter Badge](https://img.shields.io/badge/-@jcarlos_mar-000000?style=flat&labelColor=000000&logo=x&logoColor=white&link=https://twitter.com/jcarlos_mar)](https://twitter.com/jcarlos_mar)
 [![Instagram Badge](https://img.shields.io/badge/-@jcarlos_mar-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jcarlos_mar)](https://instagram.com/jcarlos_mar)
 [![Gmail Badge](https://img.shields.io/badge/-jcarlosmartinez745-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jcarlosmartinez745@gmail.com)](mailto:jcarlosmartinez745@gmail.com)
 
-## Some Quick Facts
+## Some Quick Facts ⚡️
 - 🎓 I have Full ride scholarship at Southwestern University.
 - 📚 I have a cumulative GPA of 4.0
 - 👨🏽‍💼 I'm part of the Business and Computer Science Club.
