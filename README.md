@@ -15,7 +15,7 @@ I'm always on the lookout for new opportunities to learn and grow professionally
 - 👨🏽‍💼 I'm part of the Business and Computer Science clubs.
 - 👾 One of my hobbies is designing and 3D printing.
 - 🤖 I was national champion with my high school robotics team [Aztech](https://www.instagram.com/aztech4775/).
-- 🖥️ I founded [Pero no me hackean?](https://www.facebook.com/profile.php?id=100078583879297) a social project dedicated to fostering technological literacy.
+- 🖥️ I founded [Trust the Tech]([https://www.facebook.com/profile.php?id=100078583879297](https://trust-the-tech.vercel.app)) a social project dedicated to fostering technological literacy.
 
 ## Stats 📊
 [![jucax's GitHub stats](https://github-readme-stats.vercel.app/api?username=jucax&show_icons=true&theme=highcontrast&line_height=28)](https://github.com/jucax/github-readme-stats)
